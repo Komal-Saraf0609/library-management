@@ -4,7 +4,7 @@ from . import __version__ as app_version
 
 app_name = "library_management"
 app_title = "Library Management"
-app_publisher = "Komal Saraf"
+app_publisher = "komal"
 app_description = "Library Management"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"

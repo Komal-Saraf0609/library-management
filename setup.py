@@ -11,7 +11,7 @@ setup(
 	name='library_management',
 	version=version,
 	description='Library Management',
-	author='Komal Saraf',
+	author='komal',
 	author_email='komal1',
 	packages=find_packages(),
 	zip_safe=False,
